@@ -41,7 +41,7 @@ public class TelaSobre extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel2.setText("Desenvolvido por Matheus Bianchini Guimarães");
 
-        jLabel3.setText("Sob a licença GPL");
+        jLabel3.setText("Sob a licença GNU");
 
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/br/com/guimaa/icones/gnu.png"))); // NOI18N
 

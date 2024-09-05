@@ -87,7 +87,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Sob a licen&#xe7;a GPL"/>
+        <Property name="text" type="java.lang.String" value="Sob a licen&#xe7;a GNU"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel4">
